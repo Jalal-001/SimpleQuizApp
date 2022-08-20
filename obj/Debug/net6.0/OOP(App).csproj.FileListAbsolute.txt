@@ -1,0 +1,15 @@
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\bin\Debug\net6.0\OOP(App).exe
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\bin\Debug\net6.0\OOP(App).deps.json
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\bin\Debug\net6.0\OOP(App).runtimeconfig.json
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\bin\Debug\net6.0\OOP(App).dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\bin\Debug\net6.0\OOP(App).pdb
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\obj\Debug\net6.0\OOP(App).csproj.AssemblyReference.cache
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\obj\Debug\net6.0\OOP(App).GeneratedMSBuildEditorConfig.editorconfig
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\obj\Debug\net6.0\OOP(App).AssemblyInfoInputs.cache
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\obj\Debug\net6.0\OOP(App).AssemblyInfo.cs
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\obj\Debug\net6.0\OOP(App).csproj.CoreCompileInputs.cache
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\obj\Debug\net6.0\OOP(App).dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\obj\Debug\net6.0\refint\OOP(App).dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\obj\Debug\net6.0\OOP(App).pdb
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\obj\Debug\net6.0\OOP(App).genruntimeconfig.cache
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\OOP(App)\obj\Debug\net6.0\ref\OOP(App).dll
